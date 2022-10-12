@@ -26,7 +26,7 @@
  <br>
  <br>
 
-## 📄 Proyectos:
+## 📄 Algunos Proyectos:
 
  <br>
 
