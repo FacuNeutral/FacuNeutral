@@ -1,7 +1,7 @@
 <img align="center" src="https://i.postimg.cc/W4qxGgd3/banner-github.png" alt="holis">
 
-<hr/>
-<hr/>
+
+<br/>
 <br/>
 
 ### Hace 3 años descubrí que me gusta la programación en un largo camino aprendiendo y creando proyectos, desde la universidad, bootcamps y cursos intensos. Debo decir que soy amante de las buenas prácticas, tengo la sensación que siempre debo mejorar y aprender algo nuevo cada día.
@@ -11,22 +11,30 @@
 ### Estoy interesado en el desarrollo web 🖥️, tanto desde el lado de Front-end como del Back-end.
 
  <br>
+<hr/>
+<hr/>
+ <br>
+ 
+## ⚙️ Lenguajes:
 <br>
 
-## ⚙️ Lenguajes:
-
 ### Java || C# || Javascript || TypeScript || CSS || MySql || PostgreSQL || Phyton
-
+ <br>
+<hr/>
+<hr/>
 <br>
 
 ## 🔧 Librerias y Framework´s:
+<br>
 
 ### React || Node js || Spring Boot || Angular || Unity
 
  <br>
+<hr/>
+<hr/>
  <br>
 
-## 📄 Algunos Proyectos:
+## 📄 Proyectos:
 
  <br>
 
@@ -95,7 +103,10 @@ Web App (Dogs)
 Repositorio
 </a>
 
- <br><br>
+ <br>
+<hr/>
+<hr/>
+ <br>
 
 
 ## Contacto:
