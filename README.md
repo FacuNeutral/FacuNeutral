@@ -4,80 +4,80 @@
 <br/>
 <br/>
 
-### Hace 3 años descubrí que me gusta la programación en un largo camino aprendiendo y creando proyectos, desde la universidad, bootcamps y cursos intensos. Debo decir que soy amante de las buenas prácticas, tengo la sensación que siempre debo mejorar y aprender algo nuevo cada día.
+### 3 years ago, I discovered my passion for programming through a long journey of learning and creating projects, from university to bootcamps and intensive courses. I must say that I am a lover of best practices, always feeling the need to improve and learn something new every day.
 
 <br>
 
-### Estoy interesado en el desarrollo web 🖥️, tanto desde el lado de Front-end como del Back-end.
+### I am interested in web development 🖥️, both on the Front-end and Back-end.
 
  <br>
 <hr/>
 <hr/>
  <br>
  
-## ⚙️ Lenguajes:
+## ⚙️ Languages:
 <br>
 
-### Java || C# || Javascript || TypeScript || CSS || MySql || PostgreSQL || Phyton
+### Java || C# || Javascript || TypeScript || CSS || MySql || PostgreSQL || Python
  <br>
 <hr/>
 <hr/>
 <br>
 
-## 🔧 Librerias y Framework´s:
+## 🔧 Libraries and Frameworks:
 <br>
 
-### React || Node js || Spring Boot || Angular || Unity
+### React || Node.js || Spring Boot || Angular || Unity
 
  <br>
 <hr/>
 <hr/>
  <br>
 
-## 📄 Proyectos:
+## 📄 Projects:
 
  <br>
 
-### ☕🕹️ Shop Mugs, con una publicidad interactiva:
+### ☕🕹️ Shop Mugs with interactive advertising:
 
 <br>
 <img src="https://i.postimg.cc/5tJMwzKb/1228014.png" alt="mugs shop" />
 
  <br>
 
-Desarrollar un E-Commerce de Tazas, con la idea de integrar varios lenguajes aprendidos en estos 3 años.
+Developed an E-Commerce platform for mugs, integrating various languages learned over these 3 years.
 
-Conectar una aplicación de React con un servidor de Java Spring Boot. Más un plus de un juego publicitario de Unity Web, que nos redirige a comprar un producto seleccionado.
+Connected a React application with a Java Spring Boot server. Added a Unity Web advertising game that redirects to purchasing a selected product.
 
 <br>
 
-### Contenido:
+### Features:
 
-Publicidad interactiva que podrás recorrer los productos tops del momento en la tienda.<br>
-Login y búsqueda de tazas, con posibilidad de personalizarla.<br>
-Administración de CRUD completo sobre los productos.<br>
+Interactive advertising that showcases the trending products in the store.<br>
+Login and searching for mugs, with the possibility of customization.<br>
+Full CRUD administration of products.<br>
 
  <br>
 
-### Tecnologías:
+### Technologies:
 
 React || Spring Boot || Unity || Java || C# || MySql || Javascript || CSS
 <br><br>
 <a href="https://finstory.github.io/" fontSize="34">
 <img align="center" src="https://user-images.githubusercontent.com/76783198/183678369-e773f0f2-6f7b-4921-acac-36155eae3322.svg" width="20" height="20"/>
-Juego (publicidad interactiva)
+Game (interactive advertising)
 </a>
 <br><br>
 <a href="https://www.figma.com/proto/FN636CrOBoBI7Fy6HYiFAg/Tienda?node-id=0%3A1&scaling=min-zoom&page-id=0%3A1&starting-point-node-id=160%3A14" fontSize="34">
 <img align="center" src="https://user-images.githubusercontent.com/76783198/183678369-e773f0f2-6f7b-4921-acac-36155eae3322.svg" width="20" height="20"/>
-Prototipo
+Prototype
 </a>
 
  <br>
 
  <br>
 
-### ☕🕹️ APP Personalizada (Items a elección):
+### ☕🕹️ Customized App (Items of Choice):
 
 <br>
 
@@ -85,13 +85,13 @@ Prototipo
 
  <br>
 
-Diseñar y desarrollar un app moldeable a gusto, que te permite usar cualquier información (como productos, animales,ect, traídas de una api externa), en los que puedes buscar, agregar y filtrar tales items.
+Designed and developed a customizable app that allows users to use any information (such as products, animals, etc., retrieved from an external API) where they can search, add, and filter these items.
 
  <br>
 
-### Tecnologías:
+### Technologies:
 
-React || PostgreSql || Redux || Javascript || CSS
+React || PostgreSQL || Redux || Javascript || CSS
 <br><br>
 <a href="https://finstory.github.io/ApiDogs/home/1" fontSize="34">
 <img align="center" src="https://user-images.githubusercontent.com/76783198/183678369-e773f0f2-6f7b-4921-acac-36155eae3322.svg" width="20" height="20"/>
@@ -100,7 +100,7 @@ Web App (Dogs)
 <br><br>
 <a href="https://github.com/finstory/ApiDogs" fontSize="34">
 <img align="center" src="https://user-images.githubusercontent.com/76783198/183678369-e773f0f2-6f7b-4921-acac-36155eae3322.svg" width="20" height="20"/>
-Repositorio
+Repository
 </a>
 
  <br>
@@ -109,7 +109,7 @@ Repositorio
  <br>
 
 
-## Contacto:
+## Contact:
 <br>
 <p>
     <a href="https://facu995electro@hotmail.com">
