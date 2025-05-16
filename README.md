@@ -1,6 +1,6 @@
 <img align="center" src="https://i.postimg.cc/W4qxGgd3/banner-github.png" alt="holis">
 
-## ✅ **The landing is under renovation**
+## ⚠️ **My profile is under renovation – 16/25**
 
 <br/>
 <br/>
