@@ -1,6 +1,6 @@
 <img align="center" src="https://i.postimg.cc/W4qxGgd3/banner-github.png" alt="holis">
 
-<h2 style="color: green;">✅ The project is under renovation</h2>
+## ✅ **The landing is under renovation**
 
 <br/>
 <br/>
