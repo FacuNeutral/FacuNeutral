@@ -5,7 +5,7 @@
 <br/>
 <br/>
 
-### 3 years ago, I discovered my passion for programming through a long journey of learning and creating projects, from university to bootcamps and intensive courses. I must say that I am a lover of best practices, always feeling the need to improve and learn something new every day.
+### 5 years ago, I discovered my passion for programming through a long journey of learning and creating projects, from university to bootcamps and intensive courses. I must say that I am a lover of best practices, always feeling the need to improve and learn something new every day.
 
 <br>
 
