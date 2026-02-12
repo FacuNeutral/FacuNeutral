@@ -3,12 +3,6 @@
 ## ⚠️ **My profile is under renovation – 16/25**
 
 <br/>
-<br/>
-
-### 5 years ago, I discovered my passion for programming through a long journey of learning and creating projects, from university to bootcamps and intensive courses. I must say that I am a lover of best practices, always feeling the need to improve and learn something new every day.
-
-<br>
-
 
 ## Contact:
 <br>
@@ -23,6 +17,12 @@
      Facundo Alvarez
     </a>
 <p/>
+
+<br/>
+
+### 5 years ago, I discovered my passion for programming through a long journey of learning and creating projects, from university to bootcamps and intensive courses. I must say that I am a lover of best practices, always feeling the need to improve and learn something new every day.
+
+<br>
 
 ### I am interested in web development 🖥️, both on the Front-end and Back-end.
 
