@@ -9,6 +9,21 @@
 
 <br>
 
+
+## Contact:
+<br>
+<p>
+    <a href="https://facu995electro@hotmail.com">
+      <img align="center" width="20px" src="https://i.postimg.cc/nLXqGsXS/panorama.png"/>
+      facu995electro@hotmail.com
+    </a>    
+    <br><br>
+    <a href="https://www.linkedin.com/in/facundo-alvarez-983147238/">
+      <img align="center" width="20px" src="https://i.postimg.cc/NfPM7dRY/download.png"/>
+     Facundo Alvarez
+    </a>
+<p/>
+
 ### I am interested in web development 🖥️, both on the Front-end and Back-end.
 
  <br>
@@ -34,18 +49,3 @@
 <hr/>
 <hr/>
  <br>
-
-
-## Contact:
-<br>
-<p>
-    <a href="https://facu995electro@hotmail.com">
-      <img align="center" width="20px" src="https://i.postimg.cc/nLXqGsXS/panorama.png"/>
-      facu995electro@hotmail.com
-    </a>    
-    <br><br>
-    <a href="https://www.linkedin.com/in/facundo-alvarez-983147238/">
-      <img align="center" width="20px" src="https://i.postimg.cc/NfPM7dRY/download.png"/>
-     Facundo Alvarez
-    </a>
-<p/>
