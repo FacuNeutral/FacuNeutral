@@ -1,4 +1,4 @@
-<img align="center" src="https://i.postimg.cc/W4qxGgd3/banner-github.png" alt="holis">
+<img align="center" src="./Profile%20LinkedIn%20Banner.png" alt="holis">
 
 ## ⚠️ **My profile is under renovation – 16/25**
 
